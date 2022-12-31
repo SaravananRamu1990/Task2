@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="leafgroundElements" verbose="2">
+	<test name="Test cases">
+
+		<classes>
+			<class name="leafGroundElements.Elements"></class>
+			<class name="leafGroundElements.ElementsButton"></class>
+			<class name="leafGroundElements.ElementsCheckBox"></class>
+			<class name="leafGroundElements.TestLeafDropDown"></class>
+			
+			
+		</classes>
+
+
+	</test>
+</suite>

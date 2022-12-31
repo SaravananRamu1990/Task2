@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [leafgroundElementsone]" verbose="2">
+  <test thread-count="5" name="Test cases(failed)" verbose="2">
+    <classes>
+      <class name="leafgroundElements1.LeafGroundWaits">
+        <methods>
+          <include name="leafgwait"/>
+        </methods>
+      </class> <!-- leafgroundElements1.LeafGroundWaits -->
+    </classes>
+  </test> <!-- Test cases(failed) -->
+</suite> <!-- Failed suite [leafgroundElementsone] -->

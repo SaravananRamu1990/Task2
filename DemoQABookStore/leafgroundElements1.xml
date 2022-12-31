@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="leafgroundElementsone" verbose="2">
+	<test name="Test cases">
+
+		<classes>
+			<class name="leafgroundElements1.HyperLink"></class>
+			<class name="leafgroundElements1.LeafGroundWaits"></class>
+			<class name="leafgroundElements1.RadioLeafground"></class>
+			
+		</classes>
+
+
+	</test>
+</suite>

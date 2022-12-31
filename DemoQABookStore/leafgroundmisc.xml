@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="leafgroundMiscs" verbose="2">
+	<test name="Test cases">
+
+		<classes>
+			<class name="leafgroundmiscs.MiscDownload"></class>
+			<class name="leafgroundmiscs.MiscImageUpload"></class>
+			<class name="leafgroundmiscs.MiscOne"></class>
+			<class name="leafgroundmiscs.MiscSimpleFileupload"></class>
+			
+		</classes>
+
+
+	</test>
+</suite>

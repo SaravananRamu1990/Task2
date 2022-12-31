@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="leafgroundBrowser" verbose="2">
+	<test name="Test cases">
+
+		<classes>
+			<class name="leafgroundBrowser.AlertTestLeaf"></class>
+			<class name="leafgroundBrowser.Draggable"></class>
+			<class name="leafgroundBrowser.Frames"></class>
+			<class name="leafgroundBrowser.Window"></class>
+			
+			
+		</classes>
+
+
+	</test>
+</suite>

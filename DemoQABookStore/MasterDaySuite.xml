@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Master Day">
+<suite-files>
+<suite-file path="C:\Users\91999\git\Task2\DemoQABookStore\Home.xml"></suite-file>
+<suite-file path="C:\Users\91999\git\Task2\DemoQABookStore\leafgroundBrowser.xml"></suite-file>
+<suite-file path="C:\Users\91999\git\Task2\DemoQABookStore\leafgroundElements1.xml"></suite-file>
+<suite-file path="C:\Users\91999\git\Task2\DemoQABookStore\leafgroundmisc.xml"></suite-file>
+
+
+</suite-files>
+</suite>

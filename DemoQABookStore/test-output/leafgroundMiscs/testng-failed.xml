@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [leafgroundMiscs]" verbose="2">
+  <test thread-count="5" name="Test cases(failed)" verbose="2">
+    <classes>
+      <class name="leafgroundmiscs.MiscOne">
+        <methods>
+          <include name="messagetest"/>
+        </methods>
+      </class> <!-- leafgroundmiscs.MiscOne -->
+      <class name="leafgroundmiscs.MiscImageUpload">
+        <methods>
+          <include name="miscupload"/>
+        </methods>
+      </class> <!-- leafgroundmiscs.MiscImageUpload -->
+    </classes>
+  </test> <!-- Test cases(failed) -->
+</suite> <!-- Failed suite [leafgroundMiscs] -->
